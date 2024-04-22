@@ -1,1 +1,1 @@
-/Users/jorgemariorodriguezochoa/GitHub/developer-portfolio/src/index.js
+./src/index.js
